@@ -1,3 +1,11 @@
+
+<h3 align="center">Hi! I am JunSeong Bae.</h3>
+
+<p align="center">
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wet6123/wet6123/main/CV_JS.pdf">CV</a> |
+<a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wet6123/wet6123/main/%EB%B0%B0%EC%A4%80%EC%84%B1_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf">Portfolio</a>
+</p>
+
 <h3 align="center">Tech Stack</h3>
 
 <div align = "center">
