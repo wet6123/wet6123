@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://docs.google.com/viewer?url=https://raw.githubusercontent.com/wet6123/wet6123/main/CV_JS.pdf">CV</a> |
-<a href="https://drive.google.com/file/d/1wi-D3O-Nl33boBzP9tdkUczzVai6CiMp/view?usp=sharing">Portfolio</a>
+<a href="https://drive.google.com/file/d/1jM2qMscqv2mqguFil1k-B9-jPNM2kmzN/view?usp=sharing">Portfolio</a>
 </p>
 
 <h3 align="center">Tech Stack</h3>
